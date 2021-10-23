@@ -8,4 +8,10 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
+
+    fun numberAction(view: android.view.View) {}
+    fun operatorAction(view: android.view.View) {}
+    fun allClearAction(view: android.view.View) {}
+    fun backspaceAction(view: android.view.View) {}
+    fun equalAction(view: android.view.View) {}
 }
