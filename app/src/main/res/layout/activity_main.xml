@@ -52,13 +52,13 @@
             style="@style/buttonNumber"
             android:onClick="allClearAction"
             android:text="AC"
-            android:textColor="@color/orange" />
+            android:textColor="@color/blue" />
 
         <Button
             style="@style/buttonNumber"
             android:onClick="backspaceAction"
             android:text="\u232B"
-            android:textColor="@color/orange" />
+            android:textColor="@color/blue" />
 
         <Button
             style="@style/buttonNumber"

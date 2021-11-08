@@ -2,7 +2,7 @@
     <!-- Base application theme. -->
     <style name="Theme.Taschenrechner" parent="Theme.AppCompat">
 
-        <item name="colorPrimary">@color/orange</item>
+        <item name="colorPrimary">@color/blue</item>
         <item name="colorPrimaryVariant">@color/almostBlack</item>
         <item name="colorOnPrimary">@color/white</item>
 
